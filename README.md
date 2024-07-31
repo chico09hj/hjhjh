@@ -5,4 +5,4 @@ meu nome é: Francisco Luccano
 
 ## Você pode entrar em contanto comigo em
 # 00001098140370sp@al.educacao.sp.gov.br
-![https://giphy.com/embed/IThjAlJnD9WNO"](link)
+![](https://giphy.com/embed/IThjAlJnD9WNO")
